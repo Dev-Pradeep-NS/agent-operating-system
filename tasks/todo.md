@@ -1,10 +1,18 @@
 # Task: <Task Name>
 
+<!--
+LIFECYCLE:
+  1. Fill this file at the start of each task.
+  2. Update progress inline as you work.
+  3. On completion: copy this file to tasks/archive/YYYY-MM-DD-<task-name>.md, then reset this file to the blank template.
+-->
+
 ## Metadata
 
 - Priority: <P0 | P1 | P2>
 - Owner: <Name>
 - Status: <Planned | In Progress | Blocked | Done>
+- Started: <YYYY-MM-DD>
 - Related Rule(s): <optional>
 
 ---
@@ -27,6 +35,8 @@
 ---
 
 ## Plan
+
+<!-- Add or remove steps as needed. Steps below are starting points, not a fixed list. -->
 
 - [ ] Step 1: Define problem clearly
 - [ ] Step 2: Identify root cause
@@ -72,6 +82,7 @@
 - [ ] All success criteria are met
 - [ ] No known unresolved blocker remains
 - [ ] Reviewer-ready summary is written
+- [ ] This file archived to tasks/archive/YYYY-MM-DD-<task-name>.md
 
 ---
 

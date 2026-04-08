@@ -96,3 +96,4 @@ A task is complete only when all are true:
 - Verification evidence is recorded
 - Risks and follow-ups are documented
 - Lessons learned are updated when a correction was involved
+- `tasks/todo.md` is archived to `tasks/archive/YYYY-MM-DD-<task-name>.md` and reset to the blank template
